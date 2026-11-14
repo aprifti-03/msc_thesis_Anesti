@@ -29,9 +29,3 @@ python Accretion/accretionmethod.py
 python parameter_study/parameterstudy.py
 
 python Plot_recreation/migrationmethod.py
-
-
-If you want, I can also tailor this into:
-- a shorter, cleaner GitHub-style README,
-- a more thesis/report-style README,
-- or a README focused specifically on the code and scripts.
